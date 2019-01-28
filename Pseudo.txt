@@ -1,0 +1,56 @@
+1. Create a basic application
+Your 6 year old client needs an application that will receive an integer from the user banging on the keyboard, add 5 to it, double it, subtract 7 from it, and display the result to the screen.
+•	Ask user to input integer 
+•	Add 5 to integer
+•	Multiple number by 2
+•	Subtract 7 from number 
+•	Display result on screen for user 
+
+1.	Prompt user for integer
+2.	Get integer
+3.	Calculate number= (integer +5 *2-7)
+4.	Display number 
+2. Add three numbers and print the total
+
+His little sister now wants a program to read three numbers, add them together and print their total.
+•	Select 3 random numbers 
+•	Add random numbers together 
+•	Receive sum total of random numbers 
+•	Print total of random numbers 
+
+1.	Prompt user for random numbers
+2.	Get random numbers 
+3.	Calculate number= (random number 1 + random number 2 + random number 3)
+4.	Display number
+5.	Print number
+
+3. Find the average score
+A program is needed to prompt the user operator for ten exam scores, calculate the average score and display the result to the screen. The average score is calculated as the sum of the scores divided by the number of scores.
+•	Prompt user for 10 exam scores
+•	Calculate average score using formula: 
+o	(sum of scores, divided by number of scores)
+•	Display result to user 
+
+1.	Prompt user for exam scores
+2.	Get exams scores
+3.	Calculate average= (exam score 1 + exam score 2 + exam score 3 + exam score 4 + exam score 5 + exam score 6 + exam score 7 + exam score 8 + exam score 9 + exam score 10) / 10(number of scores)
+4.	Display average
+
+
+4. How much water runs off the roof
+How much water runs off a roof in a rain storm?
+To calculate the runoff from any given rainfall: Take the dimensions of the footprint of the roof and convert them to inches. (So, a 50' x 20' roof is 600" x 240"). Multiply the roof dimensions by the number of inches of rainfall. In this example, 600" x 240" x 1" = 144,000 cubic inches of water. Divide that result by 231 to get the number of gallons (because 1 gallon = 231 cubic inches). (144,000/231 = 623.38).
+Write the pseudocode for the above problem. If you use the numbers provided in the example then the correct pseudocode will calculate the same result.
+•	Prompt user to enter dimensions of footprint of roof
+•	Prompt user to enter number of inches of rainfall
+•	Convert footprint to inches 
+•	Multiple footprint dimensions by number of inches of rainfall
+•	Divide result by 231 
+•	Print result to user 
+
+1.	Prompt user for roof dimensions 
+2.	Get roof dimensions
+3.	Calculate covert dimensions to inches=
+4.	Prompt user for inches of rainfall 
+5.	Calculate= (roof dimensions * rainfall inches) / 231
+6.	Display how much water runs off roof in rain storm 
